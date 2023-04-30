@@ -1,0 +1,22 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    flex-direction: column;
+    
+}
+.form-container form{
+    box-shadow: rgba(0,0,0,0.35) 0px 0px 2px;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #c3bdcc;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #5286d4;
+    border-color: #0d6efd;
+}
+.form-bottom{
+    color: grey;
+}
